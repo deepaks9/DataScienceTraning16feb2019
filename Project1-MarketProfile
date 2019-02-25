@@ -1,0 +1,8 @@
+In the First phase of this course , we will build project for the stock market analysis using market profile .
+To get more info about market profile please use this link-- https://www.marketcalls.in/market-profile/how-to-read-a-market-profile-chart.html
+To get the 1 min data use the link - http://tradingtuitions.com/intraday-1-minute-data-free-download/
+Follwoing are the high level steps we follow for the project
+  Build market profile using numpy , pandas and matplotlib
+  Back test the hyphothesis
+  Build machine learning algos - Regression to find out predicted values and Classification -- to confirm direction
+  Back tested for ML algos
